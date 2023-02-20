@@ -1,0 +1,2 @@
+"# notes" 
+"# logseq-mastery" 
